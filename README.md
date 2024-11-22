@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="FactChecker Banner" style="width: 100%; max-height: 200px; object-fit: cover;">
+<img src="./assets/showcase/banner.png" alt="FactChecker Banner" style="width: 100%; max-height: 200px; object-fit: cover;">
 
 FactCheckr is a React Native application that allows users to verify the authenticity of statements using AI and Bing Search APIs. It provides results with sourced articles, ensuring accuracy and transparency.
 
@@ -8,6 +8,17 @@ FactCheckr is a React Native application that allows users to verify the authent
 - **Fact-Checking**: Analyze statements using GPT and Bing APIs.
 - **Firebase Authentication**: Create and log into accounts with secure authentication.
 - **Modern UI**: Inspired by Airbnb's clean design principles for a professional look and seamless experience.
+
+- **Stack**:
+  - React Native
+  - JavaScript
+  - Firebase Authentication
+  - Bing Search API
+  - OpenAI GPT API
+- **Tools**:
+  - Async Storage for session persistence.
+- **Secure Implementation**:
+  - Environment variables are used to protect sensitive keys.
 
 ---
 
