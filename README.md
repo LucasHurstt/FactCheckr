@@ -1,5 +1,3 @@
-# FactChecker App
-
 <img src="./assets/banner.png" alt="FactChecker Banner" style="width: 100%; max-height: 200px; object-fit: cover;">
 
 FactCheckr is a React Native application that allows users to verify the authenticity of statements using AI and Bing Search APIs. It provides results with sourced articles, ensuring accuracy and transparency.
