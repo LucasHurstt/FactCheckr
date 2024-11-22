@@ -1,5 +1,7 @@
 # FactChecker App
 
+<img src="./assets/banner.png" alt="FactChecker Banner" style="width: 100%; max-height: 200px; object-fit: cover;">
+
 FactCheckr is a React Native application that allows users to verify the authenticity of statements using AI and Bing Search APIs. It provides results with sourced articles, ensuring accuracy and transparency.
 
 ---
@@ -29,7 +31,7 @@ FactCheckr is a React Native application that allows users to verify the authent
 ### Real-Time Processing
 While queries are being processed, users are shown a clean loading animation for better UX.
 
-<img src="./assets/showcase/factchecking.PNG" alt="Loading Animation" width="400"/>
+<img src="./assets/showcase/factchecking.PNG" alt="Loading Animation" width="250"/>
 
 ---
 
@@ -46,7 +48,7 @@ Secure account creation and login powered by Firebase Authentication. Users can 
 ### Account Management
 Users can view their account details, log out, or access the privacy policy directly from the account screen.
 
-<img src="./assets/showcase/account.PNG" alt="Account Screen" width="400"/>
+<img src="./assets/showcase/account.PNG" alt="Account Screen" width="250"/>
 
 ---
 
