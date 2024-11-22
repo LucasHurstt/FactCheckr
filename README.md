@@ -57,7 +57,7 @@ Secure account creation and login powered by Firebase Authentication. Users can 
 ### Account Management
 Users can view their account details, log out, or access the privacy policy directly from the account screen.
 
-<img src="./assets/showcase/account.PNG" alt="Account Screen" width="250"/>
+<img src="./assets/showcase/account.jpeg" alt="Account Screen" width="250"/>
 
 ---
 

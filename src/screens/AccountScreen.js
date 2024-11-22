@@ -34,6 +34,12 @@ const AccountScreen = ({ navigation }) => {
 
   return (
     <SafeAreaView style={styles.safeArea}>
+      <View style={styles.header}>
+        <Image
+          source={require('../../assets/banner.png')}
+          style={styles.logo}
+        />
+      </View>
       <View style={styles.centeredContainer}>
         <View style={styles.profileCard}>
           <Image source={require('../../assets/profileicon.png')} style={styles.profileImage} />
